@@ -12,3 +12,4 @@ branches:
 
 script: ./sbt test
 
+archive: true
