@@ -7,7 +7,7 @@ jdk:
   - oraclejdk7
 branches:
   only:
-    - master
+   # - master
     - develop
 
 script: ./sbt test
